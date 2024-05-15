@@ -1,0 +1,6 @@
+[submodule "react-crud-frontend"]
+	path = react-crud-frontend
+	url = https://github.com/aiswarya8110/react-crud-frontend.git
+[submodule "react-crud-backend"]
+	path = react-crud-backend
+	url = https://github.com/aiswarya8110/react-crud-backend.git
